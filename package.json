@@ -1,0 +1,23 @@
+{
+  "name": "js-workspace",
+  "version": "1.0.0",
+  "description": "Please go through the demo to create a javascript workspace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zukifujita/Create-JS-Workspace-2019-6-13-6-47-30-603.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zukifujita/Create-JS-Workspace-2019-6-13-6-47-30-603/issues"
+  },
+  "homepage": "https://github.com/zukifujita/Create-JS-Workspace-2019-6-13-6-47-30-603#readme"
+}
